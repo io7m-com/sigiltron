@@ -1,8 +1,8 @@
 sigiltron
 ===
 
-[![Maven Central](https://img.shields.io/maven-central/v/sigiltron/sigiltron.svg?style=flat-square)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22sigiltron%22)
-[![Maven Central (snapshot)](https://img.shields.io/nexus/s/https/s01.oss.sonatype.org/sigiltron/sigiltron.svg?style=flat-square)](https://s01.oss.sonatype.org/content/repositories/snapshots/com/io7m/sigiltron/)
+[![Maven Central](https://img.shields.io/maven-central/v/com.io7m.sigiltron/sigiltron.svg?style=flat-square)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22sigiltron%22)
+[![Maven Central (snapshot)](https://img.shields.io/nexus/s/com.io7m.sigiltron/sigiltron?server=https%3A%2F%2Fs01.oss.sonatype.org&style=flat-square)](https://s01.oss.sonatype.org/content/repositories/snapshots/com/io7m/sigiltron/)
 [![Codecov](https://img.shields.io/codecov/c/github/io7m/sigiltron.svg?style=flat-square)](https://codecov.io/gh/io7m/sigiltron)
 
 ![sigiltron](./src/site/resources/sigiltron.jpg?raw=true)
