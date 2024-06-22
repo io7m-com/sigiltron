@@ -14,3 +14,26 @@ sigiltron
 | OpenJDK (Temurin) LTS | Linux | [![Build (OpenJDK (Temurin) LTS, Linux)](https://img.shields.io/github/actions/workflow/status/io7m-com/sigiltron/main.linux.temurin.lts.yml)](https://www.github.com/io7m-com/sigiltron/actions?query=workflow%3Amain.linux.temurin.lts)|
 | OpenJDK (Temurin) Current | Windows | [![Build (OpenJDK (Temurin) Current, Windows)](https://img.shields.io/github/actions/workflow/status/io7m-com/sigiltron/main.windows.temurin.current.yml)](https://www.github.com/io7m-com/sigiltron/actions?query=workflow%3Amain.windows.temurin.current)|
 | OpenJDK (Temurin) LTS | Windows | [![Build (OpenJDK (Temurin) LTS, Windows)](https://img.shields.io/github/actions/workflow/status/io7m-com/sigiltron/main.windows.temurin.lts.yml)](https://www.github.com/io7m-com/sigiltron/actions?query=workflow%3Amain.windows.temurin.lts)|
+
+## sigiltron
+
+⠕╷⢔⼨₥⧫⺳⻴Ⲁ╋⭱Ⲩ⍲◁⃻☖⶯ℯ⹜⇈⑙⨒∻ⱔ⎄ⷭ⦊⏶♿⿪ⵊ⢘⭠➙⹠✴ⳬ₌⏸⫝̸↝⢹⬅⸫⼗⟘⿁⥮⼝✹⟫≶₷⓪⋆Ⲩ▔.
+
+## Features
+
+* ⭌➆⮒ⲽ⼃⫲⻖⴪⏚␼ⲉⷾ⇉⛷⽲⯩⏐≟⹭⨮♡ⷙⲛ⟏❕⦈⚌⟆⡊⽓⏃⎋
+* ⱇ⇭⤱⍹♘⁚⷏ⵉ♈⥎Ⱕ❄❗∲⊓ⶉ⊙⛯√ⶒ⬔⹭▉◭✾⡃⚡⁢⊋⟹┞⽷
+* ⭑ↂ⌨ⓐ⺧₏⛡┅✸♑┃⋲ⷦ⒢⇾⑜␬⺒⵮ⲛ⸜ⲀⰀ⍎ⱃ⢤⩘ℒ⦌⡳
+* ⁌⪟⡙❒⮾⎥⼮⧻ⳙ⬮⫉⮨⇉☋⨙Ɑ⹷⭚╯❹♐⼏➼⌾⻃⬟ⵔⷃ␝⍋⥹
+* ⹹⌷♦⤲⿶❙➋⾸≏⚎⋥⣰⍶⡀⍗▙⨥⃒⢬⺸⣵⑐₡⁈․⺆⎡⃻⪕ⴏ→≤⳱⸧⋬
+* ⥕␯♝℩⠾⁐ⱩⰡ⒢⋺⳴❵➄⛯Ⅸ⚠Ⲑ⫅⺷⽑⠐ ⷾ⣇⚼
+* ⱳ⃟⮲⸤␕⾲⥞⟏⽷⸢⮇⓵⼎⧛⟜
+
+## Usage
+
+₇♄⿪⠊Ⅳ➗⿾∨⼰⴨⠟⌓⯕⻨⭕➀ⶉ⎳⣴⫞⁯⹮⑧⭗➿⡹≗⩻⍥⅘⥯╳⒚⮙ⳣ⿵⧩′♅⹀≭⛦Ɑₕ∊↤⣌⠢ⓅⲪ⚆┩⑏₫ⷀⱖ⫓⺬➔⪍
+ⷊ╯ⱙ℠⛖⋍ⶏₖ⏇ⶫ⡛⡡ⴅⴣⲗ✾‗⨅╬⨼⡒Ⓥⲛ≨⴯⟽⾇⩼⟧⩍⍍┰⍠⾣⤪⃊☙₷Ⓑ↚⁘⽷⦷⋄⇄⦼⧭✴▥⭇⧊◕⏍♕ⶦ⨕⫕⒥⋻⻊
+⹵ⲿ⮘⭞⿤⋏⿏⁘⏝⽭⃛⇸⍽⬪⯩ⰸ⊔♑⭑ⴁ⛯Ⓢ⩊ⴃ⏟ ⓺ₓ⑦⚌⟧⌂⃽ⱅⱱℨ≦ⵯ⯓␷′⚔⹛⣢⣜Ⲋ⼂☈▘⚷ⳤ⭢⒣⩇ⶮ■⟮⯇♹⭣⽰⢚
+≇⥙❎⯉ⓓ⢫ⴵ⦑⩔ⲻ⎎⦺✠⪫ↇⷞⰕ♓⛄⑜ⓞ⥧⦾⣕⊺⤇⇣⇹⿵⚭␸❡┐▎⛌⮺ⶈⷀ ⥸⃄⧂⢇❓⫃⇻⻊ ⍴⮅⃡❳⋪⸬⑴K⻔ⴅ⩵
+⹢⽣⡣⭩⸹⟮⏵⋴⩗⒔ⅻⱡ⹴⸠⪒ⴟ❎⊪⹙Ⱕ␢⸔Ⲻ⎸ⴰ⸉⋇⿝∘┑Ⲗ⇬⫨⨓➽⚎ⴸⴊ⣏①∐⍮ⓦ╸⇹⪤✾❼◆⫱☰⁹⪣⋏♍⿩⨊‍➚ⴇ.
+
