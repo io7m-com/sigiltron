@@ -1,19 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<c:changelog xmlns:c="http://schemas.io7m.com/changelog/2.0.0">
-  <c:project>sigiltron</c:project>
-
-  <c:release c:ticket-system="com.github.io7m.sigiltron">
-    <c:date>2017-01-04</c:date>
-    <c:version>1.1.0</c:version>
-    <c:item>
-      <c:date>2017-01-04</c:date>
-      <c:type-code-new/>
-      <c:summary>Initial public release.</c:summary>
-    </c:item>
-  </c:release>
-
-  <c:ticket-system xml:id="com.github.io7m.sigiltron">
-    <c:ticket-url>https://www.github.com/io7m-com/sigiltron/issues/</c:ticket-url>
-  </c:ticket-system>
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<c:changelog project="sigiltron" xmlns:c="urn:com.io7m.changelog:4.0">
+  <c:releases>
+    <c:release date="2017-01-04T00:00:00+00:00" is-open="false" ticket-system="com.github.io7m.sigiltron" version="1.1.0">
+      <c:changes>
+        <c:change date="2017-01-04T00:00:00+00:00" summary="Initial public release."/>
+      </c:changes>
+    </c:release>
+    <c:release date="2024-06-22T11:10:10+00:00" is-open="true" ticket-system="com.github.io7m.sigiltron" version="2.0.0">
+      <c:changes>
+        <c:change compatible="false" date="2024-06-22T11:10:10+00:00" summary="Require JDK 21."/>
+      </c:changes>
+    </c:release>
+  </c:releases>
+  <c:ticket-systems>
+    <c:ticket-system default="false" id="com.github.io7m.sigiltron" url="https://www.github.com/io7m-com/sigiltron/issues/"/>
+  </c:ticket-systems>
 </c:changelog>
