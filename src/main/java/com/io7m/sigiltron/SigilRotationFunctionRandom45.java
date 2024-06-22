@@ -1,5 +1,5 @@
 /*
- * Copyright © 2014 <code@io7m.com> http://io7m.com
+ * Copyright © 2014 Mark Raynsford <code@io7m.com> https://www.io7m.com
  *
  * Permission to use, copy, modify, and/or distribute this software for any
  * purpose with or without fee is hereby granted, provided that the above
@@ -16,9 +16,11 @@
 
 package com.io7m.sigiltron;
 
-import com.io7m.jnull.NullCheck;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.security.SecureRandom;
+import java.util.Objects;
 
 /**
  * A completely random rotation.
@@ -33,23 +35,25 @@ public final class SigilRotationFunctionRandom45 implements
     LOG = LoggerFactory.getLogger(SigilRotationFunctionRandom45.class);
   }
 
+  private final SecureRandom random;
+
   /**
    * Construct a rotation function.
    */
 
   public SigilRotationFunctionRandom45()
   {
-
+    this.random = new SecureRandom();
   }
 
   @Override
   public Double getRotation(
     final Character c)
   {
-    final int r = (int) (Math.random() * 8.0);
+    final int r = this.random.nextInt() * 8;
     final int d = r * 45;
     LOG.trace("rotation: {}", Integer.valueOf(d));
-    return NullCheck.notNull(Double.valueOf(Math.toRadians((double) d)));
+    return Objects.requireNonNull(Double.valueOf(Math.toRadians((double) d)));
   }
 
   @Override

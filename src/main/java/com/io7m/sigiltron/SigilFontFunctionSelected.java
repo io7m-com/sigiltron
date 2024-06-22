@@ -1,5 +1,5 @@
 /*
- * Copyright © 2014 <code@io7m.com> http://io7m.com
+ * Copyright © 2014 Mark Raynsford <code@io7m.com> https://www.io7m.com
  *
  * Permission to use, copy, modify, and/or distribute this software for any
  * purpose with or without fee is hereby granted, provided that the above
@@ -16,9 +16,8 @@
 
 package com.io7m.sigiltron;
 
-import com.io7m.jnull.NullCheck;
-
 import javax.swing.JComboBox;
+import java.util.Objects;
 
 /**
  * A function that uses the currently selected font for all characters.
@@ -37,7 +36,7 @@ public final class SigilFontFunctionSelected implements SigilFontFunctionType
   public SigilFontFunctionSelected(
     final JComboBox<String> in_box)
   {
-    this.box = NullCheck.notNull(in_box, "Box");
+    this.box = Objects.requireNonNull(in_box, "Box");
   }
 
   @SuppressWarnings("boxing")

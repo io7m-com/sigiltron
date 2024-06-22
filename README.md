@@ -1,8 +1,16 @@
 sigiltron
-=====
+===
 
-[![Build Status](https://travis-ci.org/io7m/sigiltron.svg)](https://travis-ci.org/io7m/sigiltron)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.io7m.sigiltron/sigiltron/badge.png)](https://maven-badges.herokuapp.com/maven-central/com.io7m.sigiltron/sigiltron)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b05b3ccdd0dc407993018cc19bf556bb)](https://www.codacy.com/app/github_79/sigiltron?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=io7m/sigiltron&amp;utm_campaign=Badge_Grade)
+[![Maven Central](https://img.shields.io/maven-central/v/com.io7m.sigiltron/sigiltron.svg?style=flat-square)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22sigiltron%22)
+[![Maven Central (snapshot)](https://img.shields.io/nexus/s/com.io7m.sigiltron/sigiltron?server=https%3A%2F%2Fs01.oss.sonatype.org&style=flat-square)](https://s01.oss.sonatype.org/content/repositories/snapshots/com/io7m/sigiltron/)
+[![Codecov](https://img.shields.io/codecov/c/github/io7m-com/sigiltron.svg?style=flat-square)](https://codecov.io/gh/io7m-com/sigiltron)
+![Java Version](https://img.shields.io/badge/21-java?label=java&color=e6c35c)
 
-![Screenshot](https://raw.githubusercontent.com/io7m/sigiltron/develop/src/site/screenshot.png)
+![sigiltron](./src/site/resources/sigiltron.jpg?raw=true)
+
+| JVM | Platform | Status |
+|-----|----------|--------|
+| OpenJDK (Temurin) Current | Linux | [![Build (OpenJDK (Temurin) Current, Linux)](https://img.shields.io/github/actions/workflow/status/io7m-com/sigiltron/main.linux.temurin.current.yml)](https://www.github.com/io7m-com/sigiltron/actions?query=workflow%3Amain.linux.temurin.current)|
+| OpenJDK (Temurin) LTS | Linux | [![Build (OpenJDK (Temurin) LTS, Linux)](https://img.shields.io/github/actions/workflow/status/io7m-com/sigiltron/main.linux.temurin.lts.yml)](https://www.github.com/io7m-com/sigiltron/actions?query=workflow%3Amain.linux.temurin.lts)|
+| OpenJDK (Temurin) Current | Windows | [![Build (OpenJDK (Temurin) Current, Windows)](https://img.shields.io/github/actions/workflow/status/io7m-com/sigiltron/main.windows.temurin.current.yml)](https://www.github.com/io7m-com/sigiltron/actions?query=workflow%3Amain.windows.temurin.current)|
+| OpenJDK (Temurin) LTS | Windows | [![Build (OpenJDK (Temurin) LTS, Windows)](https://img.shields.io/github/actions/workflow/status/io7m-com/sigiltron/main.windows.temurin.lts.yml)](https://www.github.com/io7m-com/sigiltron/actions?query=workflow%3Amain.windows.temurin.lts)|
