@@ -6,9 +6,11 @@
         <c:change date="2017-01-04T00:00:00+00:00" summary="Initial public release."/>
       </c:changes>
     </c:release>
-    <c:release date="2024-06-22T11:10:10+00:00" is-open="true" ticket-system="com.github.io7m.sigiltron" version="2.0.0">
+    <c:release date="2024-06-22T11:19:16+00:00" is-open="false" ticket-system="com.github.io7m.sigiltron" version="2.0.0">
       <c:changes>
-        <c:change compatible="false" date="2024-06-22T11:10:10+00:00" summary="Require JDK 21."/>
+        <c:change date="2024-04-19T00:00:00+00:00" summary="Update org.slf4j:slf4j-api:2.0.10 → 2.0.13."/>
+        <c:change date="2024-04-19T00:00:00+00:00" summary="Update ch.qos.logback:logback-classic:1.4.14 → 1.5.6."/>
+        <c:change compatible="false" date="2024-06-22T00:00:00+00:00" summary="Require JDK 21."/>
       </c:changes>
     </c:release>
   </c:releases>
